@@ -34,11 +34,11 @@ boulder.exe < input.txt
 
 First two numbers are rows and columns.
 
-X = wall
-. = nothing
-A = starting position
-B = goal position
-O = boulder
+- X = wall
+- . = nothing
+- A = starting position
+- B = goal position
+- O = boulder
 
 ```
 5 10
