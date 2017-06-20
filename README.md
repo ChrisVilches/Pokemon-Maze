@@ -2,6 +2,10 @@
 
 Solves this kind of puzzle, by pushing rocks and finding the way through the maze. Mostly brute force.
 
+Rocks can only be pushed forward (they can't be pulled), so while playing the actual game the player can get locked up, and have to retry.
+
+Also, a rock can't be pushed if there's another rock or a wall in front of it. So, a quite difficult problem to solve efficiently.
+
 ![alt text](pokemon.jpg)
 
 
