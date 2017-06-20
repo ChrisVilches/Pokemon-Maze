@@ -1,0 +1,6 @@
+5 6
+X X X X X X
+X A O . . X
+X X X . . X
+X B . . . X
+X X X X X X
