@@ -3,6 +3,7 @@
 #include <vector>
 #include <queue>
 #include <map>
+#include <cassert>
 #include <algorithm>
 
 using namespace std;
@@ -202,6 +203,7 @@ int main(){
 			}
 
 			reverse(dirs.begin(), dirs.end());
+			assert(check_solution(dirs, init));
 
 			for(auto s : dirs){
 				cout << s << endl;
